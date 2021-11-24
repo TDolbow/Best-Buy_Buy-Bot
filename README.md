@@ -23,6 +23,8 @@ All important settings can be modified in the Buy-Bot code. For the bot to suces
 
 # Running The Bot
 To run the bot when in the same directory as the python script, use the following command.
+
 ![runningBot](https://user-images.githubusercontent.com/54713482/143315327-2bcd0b4e-e9d9-4a15-a459-e2ade2504a91.PNG)
+
 If everything worked, a best buy window looking like this should appear in a firefox browser. 
 ![bestBuyWebsite](https://user-images.githubusercontent.com/54713482/143315542-34bac8b9-e066-429b-88e6-c3c110bcb5f0.PNG)
