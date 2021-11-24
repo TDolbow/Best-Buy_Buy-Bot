@@ -1,10 +1,10 @@
 # Best-Buy_Buy-Bot
-This is the first revision of my Best Buy bot.
-***How It Works***
+This is the first revision of my Best Buy bot. It can be used to check the best buy website periodically for in stock items. If an item is in stock, this bot will add the item to its cart, and purchase the item as fast as possible. 
+# How It Works
 This bot uses selenium web driver and beutiful soup to navigate the Best Buy website and buy products. 
 
 # Required downloads
-This bot uses python3, firefox, along with several python libraries. 
+This bot uses python3, firefox, along with several python libraries.
 
 Firefox can be downloaded from here: https://www.mozilla.org/en-US/firefox/
 
