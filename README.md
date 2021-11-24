@@ -7,6 +7,7 @@ This bot uses selenium web driver and beutiful soup to navigate the Best Buy web
 This bot uses python3, firefox, along with several python libraries. 
 
 Firefox can be downloaded from here: https://www.mozilla.org/en-US/firefox/
+
 Python3 can be downloaded from here: https://www.python.org/downloads/
 
 
