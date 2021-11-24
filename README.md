@@ -17,7 +17,7 @@ To install the python libraries, the following commands can be used:
 
 
 # Modifying Bot Settings
-All important settings can be modified in the Buy-Bot code. For the bot to sucesfully complete and order, you must fill in every setting. 
+All important settings can be modified in the Buy-Bot code. For the bot to sucesfully complete an order, you must fill in every setting. 
 ![settings](https://user-images.githubusercontent.com/54713482/143315108-6c368eb7-a8df-4de4-9138-438548922284.PNG)
 
 
