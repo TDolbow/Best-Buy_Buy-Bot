@@ -11,7 +11,7 @@ Firefox can be downloaded from here: https://www.mozilla.org/en-US/firefox/
 Python3 can be downloaded from here: https://www.python.org/downloads/
 
 
-To install the python libraries, the following commands can be used: 
+To install the required python libraries, the following commands can be used: 
 - pip install BS4
 - pip install selenium 
 - pip install webdriver-manager
