@@ -35,7 +35,7 @@ ccExperationMonth = "Type month here" #Place credit card experation month here. 
 ccExperationYear = "Type year Here" #Place credit card experation year here. 
 cvv = "Type cvv Here" #Place credit card cvv number here. This should be a 3 digit number. 
 
-refreshTime = "60" #This is how often (in seconds) the bot will refresh the page. This should be set to 60 seconds by default
+refreshTime = 60 #This is how often (in seconds) the bot will refresh the page. This should be set to 60 seconds by default
 
 # ----------- End of settings ---------
 
